@@ -81,13 +81,6 @@ The project demonstrates a full-cycle BI workflow: from raw data in SQL to an in
 
 ---
 
-## 👤 Author
-
-**Manisai**  
-🔗 [LinkedIn](#) | 📂 [Portfolio](#)
-
----
-
 ## 📄 License
 
 This project is open-source and available for learning and personal use.
